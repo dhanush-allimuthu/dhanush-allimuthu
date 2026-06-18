@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  <strong>🚀 Junior Software Engineer | Focused on Web Application Content Writing ⚙️</strong>
+  <strong>🚀 Junior Software Engineer | Focused on Python ⚙️</strong>
 </h3>
 
 ---
