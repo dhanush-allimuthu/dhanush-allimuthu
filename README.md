@@ -67,7 +67,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanush-allimuthu&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanush-allimuthu&theme=algolia&row=1&column=7&no-frame=true&no-bg=true" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanush-allimuthu/dhanush-allimuthu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanush-allimuthu/dhanush-allimuthu/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dhanush-allimuthu/dhanush-allimuthu/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanush-allimuthu/dhanush-allimuthu/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dhanush-allimuthu/dhanush-allimuthu/output/github-snake-dark.svg" />
   </picture>
 </p>
