@@ -55,11 +55,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-a143&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-allimuthu&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=dhanush-a143&theme=github-dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=dhanush-allimuthu&theme=github-dark&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-a143&theme=github_dark&hide_border=false&layout=compact&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-allimuthu&theme=github_dark&hide_border=false&layout=compact&cache_seconds=1800" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanush-a143&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanush-allimuthu&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanush-a143&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanush-allimuthu&theme=github_dark" />
 </p>
 
 ---
